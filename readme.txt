@@ -2,13 +2,13 @@
 Contributors: chettyninhowp  
 Tags: password, renew, reset, pass, reset password  
 Minimum requirements: 6.8 
-Tested up to: 7.1.2 
+Tested up to: 7.1 
 PHP requirements: 8.0.26  
 Stable tag: 1.0
 License: GPLv2 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin enhances WordPress security by enforcing a password reset policy. It requires users to change their password through the password recovery process, adding an extra layer of protection to user accounts.
+This plugin enhances WordPress security by enforcing a password reset policy. Users must change their password through the password recovery process, adding an extra layer of protection.
 
 == Description ==
 This plugin will add one more security layer into your web. It's simple.

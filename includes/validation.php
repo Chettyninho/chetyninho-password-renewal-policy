@@ -11,7 +11,7 @@ add_action('validate_password_reset', function ($errors, $user) {
     }
 
     $new_password = isset($_POST['pass1'])
-        ? $_POST['pass1']
+        ? wp_unslash($_POST['pass1'])
         : '';
 
     if ($new_password === '') {
@@ -21,7 +21,7 @@ add_action('validate_password_reset', function ($errors, $user) {
     if (wp_check_password($new_password, $user->user_pass, $user->ID)) {
         $errors->add(
             'password_reused',
-            __('Your new password cannot be the same as your current password.', 'password-reuse-protection')
+            __('Your new password cannot be the same as your current password.', 'password_reset_renew')
         );
     }
 
