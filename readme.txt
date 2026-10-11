@@ -8,12 +8,11 @@ Stable tag: 1.0
 License: GPLv2 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin enhances WordPress security by enforcing a password reset policy. Users must change their password through the password recovery process, adding an extra layer of protection.
+This plugin enhances WordPress security by enforcing a password policy. Users must change their password through the password recovery process.
 
 == Description ==
 This plugin will add one more security layer into your web. It's simple.
 If the plugin it is active, the users registered in your website will not be reset their password if dont change it.
-On the opposite, if the plugin it is deactivated the users could be change normaly their passwords (using wordpress restrictions).
 
 == Installation ==
 You can install this plugin follow two diferents methods:
