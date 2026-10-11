@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Password Reset Renew
-Plugin URI: https://github.com/Chettyninho/password_reset_renew
+Plugin URI: https://github.com/Chettyninho/password-reset-renew
 Description: This plugin enhances WordPress security by enforcing a password reset policy. It requires users to change their password through the password recovery process, adding an extra layer of protection to user accounts.
 Version: 1.0
 Author: Chettyninho
