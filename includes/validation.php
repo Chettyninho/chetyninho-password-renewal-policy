@@ -11,7 +11,7 @@ add_action('validate_password_reset', function ($errors, $user) {
     }
 
     $new_password = isset($_POST['pass1'])
-        ? wp_unslash($_POST['pass1'])
+        ? sanitize_text_field(wp_unslash($_POST['pass1']))
         : '';
 
     if ($new_password === '') {
