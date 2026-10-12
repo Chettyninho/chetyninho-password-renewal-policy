@@ -1,4 +1,4 @@
-=== Password Reset Renew ===
+=== Password Renewal Enforcement ===
 Contributors: chettyninhowp  
 Tags: password, renew, reset, pass, reset password  
 Minimum requirements: 6.8 
