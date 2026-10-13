@@ -8,20 +8,45 @@ Stable tag: 1.0
 License: GPLv2 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin enhances WordPress security by enforcing a password policy. Users must change their password through the password recovery process.
+Enhance your WordPress site's security by enforcing a password renewal policy through the password recovery process.
 
 == Description ==
-This plugin will add one more security layer into your web. It's simple.
-If the plugin it is active, the users registered in your website will not be reset their password if dont change it.
+Chetyninho Password Renewal Policy (CPRP) adds an extra layer of security to your WordPress website by enforcing a password renewal policy.
+
+When the plugin is active, users must follow the required password recovery process to renew their password, according to the restrictions implemented by the plugin.
+
+Key features:
+
+1. Adds an additional layer of password security.
+
+2. Enforces the plugin's password renewal restrictions.
+
+3. Works without requiring additional configuration.
+
+4. Integrates with the WordPress password recovery workflow.
 
 == Installation ==
-You can install this plugin follow two diferents methods:
-The first its simple, you could install it in "Plugins section" on your wp-back.
+Automatic installation
 
-Or if yu want, you want you can install it manualy following the next steps: 
-1. Upload the plugin folder to the `/wp-content/plugins/` directory.  
-2. Activate it from the WordPress ‘Plugins’ menu.  
-3. Configure the options from the Plugin's ‘Settings’ page.  
+1. Log in to your WordPress administration dashboard.
+
+2. Navigate to Plugins > Add New Plugin.
+
+3. Search for "Chetyninho Password Renewal Policy".
+
+4. Click Install Now, then Activate.
+
+Manual installation
+
+1. Download the plugin package.
+
+2. Upload the plugin folder to the /wp-content/plugins/ directory.
+
+3. Navigate to Plugins in your WordPress administration dashboard.
+
+4. Activate Chetyninho Password Renewal Policy.
+
+Once activated, the plugin applies its password renewal restrictions automatically.
 
 == Frequently asked questions ==
 
@@ -35,3 +60,9 @@ Yes, as long as you use the standard WordPress functions to render content.
 
 1. 'I have forgotten my password' section.
 2. Change password panel restricted by PRR Plugin.
+
+== Changelog ==
+
+= 1.0 =
+
+Initial release.
