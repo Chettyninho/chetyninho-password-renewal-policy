@@ -1,6 +1,6 @@
-=== Password Renewal Enforcement ===
+=== Chetyninho Password Renewal Policy ===
 Contributors: chettyninhowp  
-Tags: password, renew, reset, pass, reset password  
+Tags: password, renew, reset, policy, security  
 Minimum requirements: 6.8 
 Tested up to: 7.1 
 PHP requirements: 8.0.26  

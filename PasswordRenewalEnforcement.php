@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Password Renewal Enforcement
-Text Domain: password-renewal-enforcement
+Plugin Name: Chetyninho Password Renewal Policy
+Text Domain: chetyninho-password-renewal-policy
 Plugin URI: https://github.com/Chettyninho/password-renewal-enforcement
 Description: This plugin enhances WordPress security by enforcing a password reset policy. It requires users to change their password through the password recovery process, adding an extra layer of protection to user accounts.
 Version: 1.0
