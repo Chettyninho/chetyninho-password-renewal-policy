@@ -2,7 +2,7 @@
 Contributors: chettyninhowp  
 Tags: password, renew, reset, policy, security  
 Minimum requirements: 6.8 
-Tested up to: 8.5.12 
+Tested up to: 8.5 
 PHP requirements: 8.0.26  
 Stable tag: 1.0
 License: GPLv2 or later  
